@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Alfons Muñoz Roig
-title: Cloud Engineer, Data Scientist
+title: Ingeniero Informático, Project Manager
 email: alfonsmr@gmail.com
 # website: www.niutech.mx
 
@@ -24,8 +24,11 @@ linkedin_username: alfonsmr
 about_title: Perfil
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
- Soy un entusiasta de la tecnología que se especializa en ayudar a las personas y hacer que las empresas funcionen mejor a través de la tecnología moderna, además de un fanático de todo lo relacionado con la electrónica y el IoT. Desde hace años he sido consultor de tecnología para pequeñas empresas, ayudándolas a preparar la transición desde una infraestructura obsoleta para el futuro con soluciones modernas en la nube y a transformar su forma de trabajar. Disfruto pasar tiempo con mi familia, practicar ciclismo y mantenerme al día con las tendencias tecnológicas modernas. 
+ Soy un entusiasta de la tecnología. Me especializo en ayudar a las personas y  empresas para mejorar y crecer a través del uso funcional de la tecnología. Además, soy aficionado a la electrónica y el IoT. Desde hace años he sido consultor de tecnología para diversas empresas, tanto fuera como dentro de las mismas, ayudándoles en la transición hacia el uso de soluciones modernas y a transformar su forma de trabajar. Disfruto pasar tiempo con mi familia, practicar ciclismo, viajar y mantenerme al día con las tendencias tecnológicas más novedosas.
 
+ <strong>Nacionalidad:</strong> Mexicana y Española
+
+ <strong>Idiomas:</strong> Español, Catalán e Inglés
 # Projects Section
 # projects_title: Projects
 
@@ -46,10 +49,10 @@ more_content: | # this will include new lines to allow paragraphs
    - [Django for Everybody Specialization - Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/ZJM8373AKVSV)
 
   Cursos próximos a finalizar:
-   - [IBM Data Science Professional Certificate - Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
-   - [CLOUD & DEVOPS: Transformación Continua - MIT Professional Education](https://professionalprograms.mit.edu/es/programa-online-cloud-devops-transformacion-continua/)
+   - [IBM Data Science Professional Certificate - Coursera](https://www.coursera.org/professional-certificates/ibm-data-science) (Fin Octubre 2020)
+   - [CLOUD & DEVOPS: Transformación Continua - MIT Professional Education](https://professionalprograms.mit.edu/es/programa-online-cloud-devops-transformacion-continua/) (Fin Enero 2021)
 # Footer
-footer_show_references: true
+footer_show_references: False
 
 # Build settings
 remote_theme: sproogen/resume-theme

@@ -1,19 +1,19 @@
 - layout: left
   company: niutech
   # link: niutech.mx
-  job_title: Socio Fundador
-  dates: jul. de 2011 - actualidad<p>Barcelona, España<p>Colima, México
+  job_title: Consultor IT
+  dates: ago. de 2020 - actualidad<p>Colima, México
   quote: >
-    niutech, "niu" de nido en catalán, pretende acercar el lado familiar y 
+    Asesoría de empresas para el aprovechamiento de la tecnología en momentos de cambio.
   description: |
-    yyy
+    * Implementación de Google G Suite for Education para Colegio Anáhuac Colima. Proyecto integral para dotar a la Institución de la capacidad de operar completamente en línea. Formación para personal administrativo y académico
 - layout: left
   company: Ferretool
   link: facebook.com/FerretoolColima
   job_title: Socio Director
   dates: ago. de 2018 – jul. de 2020<p>Colima, México
   quote: >
-    Crecimiento de ventas X10 mediante herramientas de análisis y control
+    Crecimiento de ventas X10 mediante herramientas de análisis y control.
   description: |
     * Dirección de la empresa, coordinación del personal y externo.
     * Coordinación y diseño de la imagen y estrategia de marketing de la empresa.
@@ -28,7 +28,7 @@
   job_title: Director de Sistemas de Información
   dates: ene. de 2014 – jul. de 2020<p>Colima, México
   quote: >
-   Creando las bases para una empresa colaborativa y tecnológicamente al día.
+   Estableciendo las bases para una empresa colaborativa y tecnológicamente al día.
   description: |
     * Diseño e implementación de la estructura de red y telefonía del edificio, e integración de puntos remotos.
     * Diseño,  implementación y supervisión del mantenimiento de la estructura de servidores.
@@ -42,12 +42,14 @@
   job_title: Consultor IT
   dates: jul. de 2011 - dic. de 2013<p>Barcelona, España<p>Colima, México
   quote: >
-    niutech, "niu" de nido en catalán, pretende acercar el lado familiar y 
+    Creación de una empresa con un enfoque humano y práctico de la tecnología.
   description: |
     * Asesoría continua y mantenimiento de sistemas para Martínez Franch Retail Innovation Consultants.
     * Analisis y consultoria del sistema de eLearning para la universidad UNIACC en Chile.
     * Diseño y mantenimiento de CRM basado en vTiger para empresa de brokers.
     * Diseño de cursos de formación a distancia para farmacéutica.
+    * Estrategia de marca, diseño web, SEO, estrategia de comunicación y redes sociales para Fundación UCOL.
+    * Estrategia de marca, diseño web, SEO, estrategia de comunicación y redes sociales para Desarrollos de Colima.
 - layout: left
   company: ESADE
   link: esade.edu
@@ -79,4 +81,7 @@
   quote: >
     Líder del equipo de gestión de las herramientas de correo electrónico "on-premise" en empresa puntera en telefonía móvil.
   description: |
-    * Diseño y mantenimiento del sistema de correo electrónico de la compañía, desde la implementación del hardware, clusters, backups, configuración de pasarelas smtp y firewalls,  hasta el soporte a usuario para miles de empleados.
+    * Diseño y mantenimiento del sistema de correo electrónico de la compañía.
+    * Implementación del hardware, clusters y backups.
+    * Configuración de pasarelas smtp y firewalls.
+    * Soporte a usuario para miles de empleados.
