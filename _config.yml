@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 name: Alfons Muñoz Roig
 title: Cloud Engineer, Data Scientist
 email: alfonsmr@gmail.com
-website: www.niutech.mx
+# website: www.niutech.mx
 
 # Social links
 twitter_username: alfons_mr
@@ -45,6 +45,9 @@ more_content: | # this will include new lines to allow paragraphs
    - [G Suite Administration Specialization - Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/PYHA94RZUHY3)
    - [Django for Everybody Specialization - Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/ZJM8373AKVSV)
 
+  Cursos próximos a finalizar:
+   - [IBM Data Science Professional Certificate - Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
+   - [CLOUD & DEVOPS: Transformación Continua - MIT Professional Education](https://professionalprograms.mit.edu/es/programa-online-cloud-devops-transformacion-continua/)
 # Footer
 footer_show_references: true
 
