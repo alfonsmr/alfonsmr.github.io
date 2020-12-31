@@ -42,15 +42,14 @@ education_title: Educación
 more_title: Cursos
 more_content: | # this will include new lines to allow paragraphs
   Otros cursos realizados:
+   - Google Associate Cloud Engineer 2020
+   - [CLOUD & DEVOPS: Transformación Continua - MIT Professional Education](https://professionalprograms.mit.edu/es/programa-online-cloud-devops-transformacion-continua/)
    - [Introduction to Data Science Specialization - Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/3ZMJ8JNEHS4J)
    - [Google IT Automation with Python Specialization - Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/4VWNF724LGT9)
    - [Cloud Engineering with Google Cloud Specialization - Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/V7KMEJBYGY4E)
    - [G Suite Administration Specialization - Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/PYHA94RZUHY3)
    - [Django for Everybody Specialization - Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/ZJM8373AKVSV)
 
-  Cursos próximos a finalizar:
-   - [IBM Data Science Professional Certificate - Coursera](https://www.coursera.org/professional-certificates/ibm-data-science) (Fin Octubre 2020)
-   - [CLOUD & DEVOPS: Transformación Continua - MIT Professional Education](https://professionalprograms.mit.edu/es/programa-online-cloud-devops-transformacion-continua/) (Fin Enero 2021)
 # Footer
 footer_show_references: False
 
